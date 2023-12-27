@@ -1,4 +1,3 @@
-![logo](https://github.com/Hashinidevindi/Hashinidevindi/blob/main/pexels-lukas-574069.jpg)
 <h1 align="center">Hi 👋, I'm Hashini Vitharana</h1>
 <h3 align="center">A passionate software engineer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
